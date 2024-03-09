@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govind-kashyap&label=Profile%20views&color=0e75b6&style=flat" alt="govind-kashyap" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=govind-kashyap" alt="govind-kashyap" /></a> </p>
-
 - 🌱 I’m currently learning **Java script**
 
 - 📫 How to reach me **govindkashyap7612@gmail.com**
